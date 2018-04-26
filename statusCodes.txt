@@ -1,0 +1,17 @@
+		
+		preferred hotel		preferred airline		structure
+		---------------		-----------------		-------------------------
+[1]		available			available				[1]
+[2]		not available		available				[2]+ALT_HOTEL
+[3]		available			not available			[3]+ALT_AIRLINE
+[4]		not available		not available			[4]+ALT_HOTEL+ALT_AIRLINE
+
+		
+		meaning																					structure
+		-----------------------------------------------------------------------------------		------------------------------------
+[5]		preferred hotel is not available and there is no alternative hotel available			[5]
+[6]		preferred airline is not available and there is no alternative airline available		[6]
+[7]		preferred hotel and airline are not available and there are no alternatives				[7]
+[8]		successfully reserved																	[8]+RESERVED_HOTEL+RESERVED_AIRLINE
+[20]	unknown preferred hotel																	[20]
+[21]	unknown preferred airline 																[21]

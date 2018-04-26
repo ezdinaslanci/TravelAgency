@@ -1,0 +1,22 @@
+{
+    "hotelName": "Hotel Discovery",
+    "numOfRooms": 4,
+    "rooms": [
+        {
+            "reservedDates": [],
+            "roomID": 1
+        },
+        {
+            "reservedDates": [],
+            "roomID": 2
+        },
+        {
+            "reservedDates": [],
+            "roomID": 3
+        },
+        {
+            "reservedDates": [],
+            "roomID": 4
+        }
+    ]
+}

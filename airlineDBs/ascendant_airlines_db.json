@@ -1,0 +1,18 @@
+{
+    "airlineName": "Ascendant Airlines",
+    "numOfSeats": 3,
+    "seats": [
+        {
+            "reservedDates": [],
+            "seatID": 1
+        },
+        {
+            "reservedDates": [],
+            "seatID": 2
+        },
+        {
+            "reservedDates": [],
+            "seatID": 3
+        }
+    ]
+}

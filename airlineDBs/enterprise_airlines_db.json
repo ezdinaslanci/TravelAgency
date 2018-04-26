@@ -1,0 +1,30 @@
+{
+    "airlineName": "Enterprise Airlines",
+    "numOfSeats": 6,
+    "seats": [
+        {
+            "reservedDates": [],
+            "seatID": 1
+        },
+        {
+            "reservedDates": [],
+            "seatID": 2
+        },
+        {
+            "reservedDates": [],
+            "seatID": 3
+        },
+        {
+            "reservedDates": [],
+            "seatID": 4
+        },
+        {
+            "reservedDates": [],
+            "seatID": 5
+        },
+        {
+            "reservedDates": [],
+            "seatID": 6
+        }
+    ]
+}

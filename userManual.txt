@@ -1,0 +1,19 @@
+### USER MANUAL
+
+1- Hotel & Airline Servers
+The number of hotels and airlines are dynamic and can be changed by adding an instance in the main function of Hotel.py/Airline.py.
+When Hotel.py is run by "python3 Hotel.py" or Airline.py is run by "python3 Airline.py", each Hotel and Airline instance gets an available port and starts listening to it.
+
+2- Travel Agency
+A Travel Agency instance is created when "python3 TravelAgency.py" is executed and it gets an available port and starts listening to it.
+
+3- Customer Interface
+A Customer Interface instace is created when "python3 CustomerInterface.py" is executed and it takes an input (port number of Travel Agency) on console.
+After the connection is established, user enters her preferences and everything is done on console.
+
+### STEPS
+
+>> python3 Hotel.py
+>> python3 Airline.py
+>> python3 TravelAgency.py
+>> python3 CustomerInterface.py

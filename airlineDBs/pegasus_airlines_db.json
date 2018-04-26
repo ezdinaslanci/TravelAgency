@@ -1,0 +1,26 @@
+{
+    "airlineName": "Pegasus Airlines",
+    "numOfSeats": 5,
+    "seats": [
+        {
+            "reservedDates": [],
+            "seatID": 1
+        },
+        {
+            "reservedDates": [],
+            "seatID": 2
+        },
+        {
+            "reservedDates": [],
+            "seatID": 3
+        },
+        {
+            "reservedDates": [],
+            "seatID": 4
+        },
+        {
+            "reservedDates": [],
+            "seatID": 5
+        }
+    ]
+}

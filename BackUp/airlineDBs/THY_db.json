@@ -1,0 +1,19 @@
+{
+	"hotelName": "THY",
+	"numOfSeat": 1,
+	"seats": [
+		{
+			"seatID": 1,
+			"reservedDates": [
+				{"arrivalDate": "11.01.2017", "departureDate": "13.01.2017"},
+				{"arrivalDate": "18.01.2017", "departureDate": "21.01.2017"}
+			]
+		},
+		{
+			"seatID": 2,
+			"reservedDates": [
+				{"arrivalDate": "11.02.2017", "departureDate": "13.02.2017"}
+			]
+		}
+	]
+}
